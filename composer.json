@@ -1,5 +1,5 @@
 {
-    "name": "dcat/laravel-admin-custom",
+    "name": "dcat-custom/laravel-admin",
     "description": "dcat admin custom from: https://github.com/jqhph/dcat-admin",
     "type": "library",
     "keywords": ["dcat", "laravel", "admin", "grid", "form", "laravel admin"],
