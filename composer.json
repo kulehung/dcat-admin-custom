@@ -11,6 +11,7 @@
             "email": "kulehung@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "php": ">=7.1.0",
         "laravel/framework": "~5.5|~6.0|~7.0|~8.0",
@@ -47,7 +48,5 @@
                 "Dcat\\Admin\\AdminServiceProvider"
             ]
         }
-    },
-    "minimum-stability": "dev",
-    "prefer-stable": true
+    }
 }
