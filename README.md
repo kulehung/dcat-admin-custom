@@ -1,5 +1,7 @@
 This library, I custom from dcat/laravel-admin library
-Authors:
+### Author's Copyright:
+```
+"homepage": "https://github.com/jqhph/dcat-admin",
 "authors": [
          {
              "name": "jqh",
@@ -7,5 +9,6 @@ Authors:
          }
      ],
 
-Readme information refer to:
+```
+### Readme information refer to:
 https://github.com/jqhph/dcat-admin/blob/2.0/README.md
